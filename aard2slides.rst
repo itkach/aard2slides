@@ -1,10 +1,27 @@
+============================
+Aard 2 - http://aarddict.org
+============================
+
+.. image:: aard2.svg
+   :align: center
+   :scale: 50%
+
 What is it?
 -----------
 .. class:: incremental
 
    - Word lookup app (a.k.a. dictionary)
 
-   - Wikipedia reader/browser
+     .. image:: sm-lookup.png
+
+
+What is it?
+-----------
+
+- Wikipedia reader/browser
+
+  .. image:: sm-article-pythagorean-theorem.png
+
 
 Why?
 ----
@@ -97,3 +114,19 @@ Wish List
    - Spatial (geo) lookups
 
    - Better long content scrolling
+
+
+Resources
+---------
+
+- Forum
+
+  http://aarddict.org/forum/
+
+- Dictionaries
+
+  https://github.com/itkach/slob/wiki/Dictionaries
+
+- Source Code
+
+  https://github.com/itkach/aard2-android
